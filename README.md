@@ -18,8 +18,6 @@ This project was  in pure JavaScript, so no canvas will be used.
 
 ### [Click here for a live Demo of the final game](http://battleship.tech/)
 
-Thanks for watching! If you liked watching this video, please do hit the  Subscribe or Like button so I know to make more!
-
 ### MIT Licence
 
 Copyright (c) 2020 Ania Kubow
