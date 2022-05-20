@@ -2,10 +2,6 @@
 javaScript HTML and CSS 
 
 
-Watch the full video here: https://youtu.be/U64vIhh0TyM
-
-
-
 In this project i made:
 - make 5 draggable ships
 - rotate the ships prior to dragging
