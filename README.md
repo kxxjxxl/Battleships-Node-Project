@@ -1,5 +1,5 @@
 # battleships-game
-Node,javaScript HTML and CSS 
+Socket,Node,JavaScript HTML and CSS 
 
 
 In this project i made:
