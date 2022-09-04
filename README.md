@@ -9,6 +9,5 @@ In this project i made:
 - display results based on who has sunk whos ship
 - display the winner
 
-This project was  in pure JavaScript, so no canvas will be used.
-
+This project front end and animations were designed with Javascript, HTML and CSS.
 
